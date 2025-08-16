@@ -1,6 +1,8 @@
 # Landslide-susceptibility-demo
 **Author** Neethusree
+
 **Content**Demo of meso-scale landslide susceptibility mapping using open DEM data and Python (adapted from GSI workflow)
+
 Note: This repository uses only **open or synthetic datasets**. Official GSI datasets are not included due to licensing restrictions.
 
 ## Project Overview
