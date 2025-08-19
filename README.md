@@ -16,7 +16,7 @@ The goal is to highlight:
 
 ## Methods
 1. **DEM Preprocessing**  
-   - Use an open DEM (e.g., SRTM/Copernicus DEM).  
+   - Use an open DEM (The DEM used is freely available from NASA Earthdata, ASTER DEM).  
    - Derive slope, aspect, curvature rasters.  
 
 2. **Factor Classes & Scoring**  
